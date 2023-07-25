@@ -16,4 +16,4 @@ At **[Numurus](https://www.numurus.com), we believe in the power of the collecti
 
 Come **join the movement!**
 
-For any questions please email <mailto:nepi@numurus.com>, here to help!
+For any questions please email [nepi@numurus.com]<mailto:nepi@numurus.com>, here to help!
