@@ -6,7 +6,7 @@
 
 Numurus' patent-pending flagship product NEPI Engine, is a software toolkit that helps engineers reduce the time and risks of bringing robotic and edge-AI applications to market.  NEPI Engine is a full-featured software toolkit enabling rapid development of AI and automation software applications.
 
-NEPI Engine is an open-source platform enabling developers to customize and modify the code base to suit your organzaition's needs and to leverage a community of developer's for rapid support and sharing of ideas.
+NEPI Engine is an open-source Linux distro enabling developers to customize and modify the code base to suit your organzaition's needs and to leverage a community of developer's for rapid support and sharing of ideas.
 
 As developers, we must find ways to accelerate development of software solutions and reduce the cost of solutions to help industrial customers adopt automation and AI solutions in their workfows.
 
