@@ -1,4 +1,4 @@
-## Numurus NEPI
+# Numurus, Powering Industrial AI and Automation at the Edge
 ![NEPI software box](https://i0.wp.com/numurus.com/wp-content/uploads/NEPI-Software-Box_Shadow-1.png)
 <!--
 
