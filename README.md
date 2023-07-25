@@ -1,5 +1,3 @@
-# .github
-
 ## Numurus, Powering Industrial AI and Automation at the Edge
 
 <p align="center">
