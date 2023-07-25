@@ -12,6 +12,6 @@ As developers, we must find ways to accelerate development of software solutions
 
 For documentation, visit **[NEPI Engine](https://numurus.com/products-nepi-engine/)**
 
-At **[Numurus](https://www.numurus.com), we believe in the power of many, its the collective power of all that drives innovation forward!**
+At **[Numurus](https://www.numurus.com), we believe in the power of the collective many, the driving force behind innovation!**
 
 Come **join the movement!**
