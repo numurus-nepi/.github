@@ -1,6 +1,5 @@
 # Numurus, Powering Industrial AI and Automation at the Edge
-![NEPI software box](https://i0.wp.com/numurus.com/wp-content/uploads/NEPI-Software-Box_Shadow-1.png)
-<!--
+<img src="https://github.com/numurus-nepi/.github/assets/140538444/3a4c4faf-a0f9-44cb-9a61-d949905cfd75">
 
 **Here are some ideas to get you started:**
 
