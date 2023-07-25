@@ -1,4 +1,4 @@
-<p align="center"> ## Numurus, Powering Industrial AI and Automation at the Edge</p>
+# Numurus, Powering Industrial AI and Automation at the Edge
 
 <p align="center">
   <img src="https://github.com/numurus-nepi/.github/assets/140538444/3a4c4faf-a0f9-44cb-9a61-d949905cfd75" width="400px">
