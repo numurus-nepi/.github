@@ -4,7 +4,7 @@ At **[Numurus](https://www.numurus.com), we focus on the concept "built it once 
 
 NEPI Engine, is a software toolkit that helps engineers reduce the time and risks of bringing robotic and edge-AI applications to market. 
 
-Come **Start creating your next edge AI and automation solution today with NEPI!**
+**Start creating your next edge AI and automation solution today with NEPI!**
 
 <img src="https://numurus.com/wp-content/uploads/NEPI-Hand-Icons-2000x1330-1.png" width="600px">
 
