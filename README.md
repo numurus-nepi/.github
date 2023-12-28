@@ -1,8 +1,8 @@
 ## Numurus, Powering Industrial AI and Automation at the Edge
 
-At **[Numurus](https://www.numurus.com), we focus on the concept "built it once and share with millions, so they don't have to"**.
+At [Numurus](https://www.numurus.com), we focus on the concept "built it once and share with millions, so they don't have to".
 
-NEPI is a software platform that helps engineers reduce the time and risks of bringing robotic, automation, and edge-AI applications to market. 
+We developed NEPI, a full-featured edge-AI and automation software platform for embedded edge-compute hardware, to help both new and experienced developers bypass many hurdles associated with creating and bringing up edge-AI-enabled automation solutions. 
 
 **Start creating your next edge AI and automation solution today with NEPI!**
 
