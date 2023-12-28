@@ -1,19 +1,20 @@
 ## Numurus, Powering Industrial AI and Automation at the Edge
 
-<p align="center">
-  <img src="https://github.com/numurus-nepi/.github/assets/140538444/3a4c4faf-a0f9-44cb-9a61-d949905cfd75" width="400px">
-</p>
+At [Numurus](https://www.numurus.com), we focus on the concept "built it once and share with millions, so they don't have to".
 
-Numurus' patent-pending flagship product NEPI Engine, is a software toolkit that helps engineers reduce the time and risks of bringing robotic and edge-AI applications to market.  NEPI Engine is a full-featured software toolkit enabling rapid development of AI and automation software applications.
+We developed NEPI, a full-featured edge-AI and automation software platform for embedded edge-compute hardware, to help both new and experienced developers bypass many hurdles associated with creating and bringing up edge-AI-enabled automation solutions. 
 
-NEPI Engine is an open-source Linux distro enabling developers to customize and modify the code base to suit your organzaition's needs and to leverage a community of developer's for rapid support and sharing of ideas.
+**Start creating your next edge AI and automation solution today with NEPI!**
 
-As developers, we must find ways to accelerate development of software solutions and reduce the cost of solutions to help industrial customers adopt automation and AI solutions in their workfows.
+<img src="https://numurus.com/wp-content/uploads/NEPI-Hand-Icons-2000x1330-1.png" width="600px">
 
-For documentation, visit **[NEPI Engine](https://numurus.com/products-nepi-engine/)**
+Learn more about NEPI at **(https://numurus.com/software-nepi-engine/)**
 
-At **[Numurus](https://www.numurus.com), we believe in the power of the collective many, the driving force behind innovation!**
+For NEPI documentation, visit **(https://numurus.com/library/)**
 
-Come **join the movement!**
+For NEPI Tutorials, visit **(https://numurus.com/tutorials/)**
+
+For NEPI Demo Videos, visit **(https://numurus.com/videos/)**
 
 For any questions please email [nepi@numurus.com](mailto:nepi@numurus.com), here to help!
+
