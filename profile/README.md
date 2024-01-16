@@ -6,7 +6,7 @@ We developed NEPI, a full-featured edge-AI and automation software platform for 
 
 **Start creating your next edge AI and automation solution today with NEPI!**
 
-<img src="https://numurus.com/wp-content/uploads/NEPI-Hand-Icons-2000x1330-1.png" width="600px">
+<img src="https://numurus.com/wp-content/uploads/NEPI-Hand-Icons-2000x1330-1.png" width="450px">
 
 NEPI provides
 - A collection of sensor and motion control drivers with standardized, abstracted interfaces
